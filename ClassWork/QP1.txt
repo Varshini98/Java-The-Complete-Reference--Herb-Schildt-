@@ -1,0 +1,9 @@
+Create a java class Person which has attributes Name, address and phone no. Display the details of 5 persons.
+Modify the above program to display the phone number of a person 
+Modify the above program to create an array of person objects and display the details of all objects
+
+Create a java class Number which compares the values of two integers x and y and displays which one is the greater or whether they are equal as the case may be.
+Modify the Number class to store an array of Number objects and display the sum of x and y of each object.
+Modify the Number class to compare two Number objects
+
+
